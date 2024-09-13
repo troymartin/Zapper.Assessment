@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Zapper.Question2": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
